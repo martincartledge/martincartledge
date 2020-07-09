@@ -1,16 +1,18 @@
-### Hi there 👋
+Hello, I'm Martin 👋🏻
 
-<!--
-**martincartledge/martincartledge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+"Learn something new every day"
 
-Here are some ideas to get you started:
+🔭 Currently [blogging about Go](https://www.martincartledge.io/)
+🌱 Currently learning [Go](https://golang.org/)
+🛩 Currently working at [Gogo](https://www.gogoair.com/)
+😄 Pronouns: he/him
+ 
+Always rooting for: 
+🏒 Tampa Bay Lightning
+🏈 Tampa Bay Bucaneers 
+⚾️ Tampa Bay Rays
+🏀 Denver Nuggets
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Always reading: Stephen King
+
+🍕 Always wanting to eat pizza
