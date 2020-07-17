@@ -1,4 +1,6 @@
-[![](https://i.imgur.com/xeV7N84.png)](#) Hello, I'm Martin 👋🏻
+[![](https://i.imgur.com/7JlZjqN.gifv)](#) 
+
+I'm Martin 👋🏻
 
 "Learn something new every day"
 
