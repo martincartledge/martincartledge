@@ -1,4 +1,4 @@
-[![](https://i.imgur.com/7JlZjqN.gifv)](#) 
+[Imgur](https://i.imgur.com/7JlZjqN.gifv)
 
 I'm Martin 👋🏻
 
