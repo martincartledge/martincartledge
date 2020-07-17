@@ -22,6 +22,6 @@ Always rooting for:
 
 🏀  Denver Nuggets
 
-📚 Always reading: Stephen King
+📚 Always reading Stephen King
 
 🍕 Always wanting to eat pizza
