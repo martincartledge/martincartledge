@@ -4,7 +4,7 @@ I'm Martin 👋🏻
 
 "Learn something new every day"
 
-🔭  Currently [blogging about Go](https://www.martincartledge.io/)
+🔭  Currently blogging about Data Structures & Algorithms using JavaScript
 
 🌱  Currently learning [Go](https://golang.org/)
 
