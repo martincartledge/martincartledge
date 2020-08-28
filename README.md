@@ -2,7 +2,7 @@
 
 I'm Martin 👋🏻
 
-"Learn something new every day"
+🎧 Currently Listening to: Power Trip - Nightmare Logic
 
 🔭  Currently blogging about Data Structures & Algorithms using JavaScript
 
