@@ -2,8 +2,6 @@
 
 I'm Martin 👋🏻
 
-🎧 Currently Listening to: Power Trip - Nightmare Logic
-
 🔭  Currently blogging about [Data Structures & Algorithms using JavaScript](https://www.martincartledge.io/) (released bi-weekly)
 
 🌱  Currently learning [Go](https://golang.org/)
