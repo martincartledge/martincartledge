@@ -2,9 +2,7 @@
 
 I'm Martin 👋🏻
 
-🔭  Currently blogging about [Data Structures & Algorithms using JavaScript](https://www.martincartledge.io/) (released bi-weekly)
-
-🌱  Currently learning [Go](https://golang.org/)
+🌱  Currently learning [Go](https://golang.org/) and [Svelte](https://svelte.dev/)
 
 🛩  Currently working at [Gogo](https://www.gogoair.com/)
 
