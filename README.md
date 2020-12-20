@@ -6,7 +6,7 @@ I'm Martin 👋🏻
 
 🛩  Currently working at [Gogo](https://www.gogoair.com/)
 
-📚 Currently reading [Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits?from_search=true&from_srp=true&qid=qCQzem14fa&rank=1) and [Hollywood Park](https://www.goodreads.com/book/show/49235526-hollywood-park)
+📚 Currently reading [The Institute](https://www.goodreads.com/book/show/43799634-the-institute)
 
 📢  Opinions: mine
 
