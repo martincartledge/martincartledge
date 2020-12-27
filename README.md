@@ -6,7 +6,7 @@ I'm Martin 👋🏻
 
 🛩  Currently working at [Gogo](https://www.gogoair.com/)
 
-📚 Currently reading [The Institute](https://www.goodreads.com/book/show/43799634-the-institute)
+📚 Currently reading [Beartown](https://www.goodreads.com/book/show/33413128-beartown)
 
 📢  Opinions: mine
 
