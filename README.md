@@ -6,7 +6,7 @@ I'm Martin 👋🏻
 
 🛩  Currently working at [Gogo](https://www.gogoair.com/)
 
-📚 Currently reading [The Outsider](https://www.goodreads.com/book/show/36124936-the-outsider)
+📚 Currently reading [Us Against You](https://www.goodreads.com/book/show/36373463-us-against-you)
 
 📢  Opinions: mine
 
