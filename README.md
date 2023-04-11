@@ -8,12 +8,10 @@ I love to learn and to share what I learn 📚
 
 I have written about [Go](https://www.martincartledge.io/tags/go), [data structures](https://www.martincartledge.io/posts/the-array-data-structure) and [algorithms](https://www.martincartledge.io/posts/time-complexity-space-complexity-and-big-o-notation), and [career advice](https://www.martincartledge.io/tags/interviewing) in the past.
 
-I am currently writing about:
+I am [currently writing](https://martincartledge.io) about:
 
 - Compilers
 - Interpreters
 - Distributed systems
 - API design
 - System design
-
-![](https://komarev.com/ghpvc/?username=martincartledge)
