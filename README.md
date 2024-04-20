@@ -1,6 +1,6 @@
 Hello 👋, my name is Martin
 
-I am a dad, husband, and software engineer 👨👩👧 🐕🦮 💻
+I am a dad, husband, and software engineer 👨👩👧👧 🐕🦮 💻
 
 I have two Golden Retrievers 🦮🦮 💞
 
