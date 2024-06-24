@@ -10,8 +10,4 @@ I have written about [Go](https://www.martincartledge.io/tags/go), [data structu
 
 I am [currently writing](https://martincartledge.io) about:
 
-- Compilers
-- Interpreters
-- Distributed systems
-- API design
-- System design
+- Artificial Intelligence
