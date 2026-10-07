@@ -1,13 +1,5 @@
-Hello 👋, my name is Martin
+Hello 👋, I'm Martin
 
-I am a dad, husband, and software engineer 👨👩👧👧 🐕🦮 💻
+I'm a dad, husband, and dog dad to two Goldens 🦮🦮
 
-I have two Golden Retrievers 🦮🦮 💞
-
-I love to learn and to share what I learn 📚
-
-I have written about [Go](https://www.martincartledge.io/tags/go), [data structures](https://www.martincartledge.io/posts/the-array-data-structure) and [algorithms](https://www.martincartledge.io/posts/time-complexity-space-complexity-and-big-o-notation), and [career advice](https://www.martincartledge.io/tags/interviewing) in the past.
-
-I am [currently writing](https://martincartledge.io) about:
-
-- Artificial Intelligence
+You can learn more about me [here]([url](https://www.martincartledge.io/)) 🪄
